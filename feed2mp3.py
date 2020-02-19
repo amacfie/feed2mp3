@@ -1,12 +1,13 @@
+import os
+import random
+import re
+import tempfile
+
 from goose3 import Goose
 from pydub import AudioSegment
 import argparse
 import feedparser
 import nltk
-import os
-import random
-import re
-import tempfile
 import unidecode
 
 # http://www.overcomingbias.com/feed
