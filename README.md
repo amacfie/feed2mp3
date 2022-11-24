@@ -11,3 +11,5 @@ Usage: `python3 feed2mp3.py -h`
 
 Pull requests always welcome.
 
+See also:
+* https://article.audio/
